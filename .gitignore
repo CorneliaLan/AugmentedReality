@@ -1,0 +1,90 @@
+###############################################################################
+# Unity generated folders (NEVER COMMIT)
+###############################################################################
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+###############################################################################
+# OS / Editor files
+###############################################################################
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
+.vscode/
+
+###############################################################################
+# Visual Studio / Rider / Mono
+###############################################################################
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+###############################################################################
+# Unity auto-generated meta & crash files
+###############################################################################
+sysinfo.txt
+mono_crash.*
+
+###############################################################################
+# Builds / exports (optional – remove if you want to commit builds)
+###############################################################################
+*.apk
+*.aab
+*.ipa
+*.app
+*.unitypackage
+
+###############################################################################
+# Addressables (generated content)
+###############################################################################
+ServerData/
+Assets/StreamingAssets/aa*
+Assets/AddressableAssetsData/*/*.bin*
+Assets/Addressables_Temp*
+
+###############################################################################
+# Visual Scripting generated files
+###############################################################################
+Assets/Unity.VisualScripting.Generated/
+Assets/Unity.VisualScripting.Generated.meta
+
+###############################################################################
+# Test runner auto-generated scenes
+###############################################################################
+Assets/InitTestScene*.unity*
+Assets/InitTestScene*.unity*.meta
+
+###############################################################################
+# VUFORIA (IMPORTANT)
+###############################################################################
+
+# If Vuforia is imported under Assets (unitypackage / SDK)
+Assets/Vuforia/
+Assets/Vuforia.meta
+
+# If you downloaded a Vuforia .tgz locally
+Packages/com.ptc.vuforia.engine-*.tgz
+
+###############################################################################
+# Safety net: NEVER allow Unity cache databases
+###############################################################################
+**/Library/ArtifactDB
+**/Library/ArtifactDB-lock
+
